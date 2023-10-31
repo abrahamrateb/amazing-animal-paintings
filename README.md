@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+ng g m product
+ng g s product/product
+ng g c product/product-list
+ng g class models/product
+ng g environments
+ng serve --configuration=development
+ng add @angular/material
+npm i @angular/flex-layout
+ng g m cart
+ng g s cart/cart
+ng g c cart/cart-view
